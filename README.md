@@ -1,4 +1,4 @@
-# Zero to Deep Learning® Udemy Video Course
+# Zero to Deep Learning® Video Course
 
 Welcome to the Zero to Deep Learning Video Course repository.
 
@@ -7,7 +7,7 @@ Welcome to the Zero to Deep Learning Video Course repository.
 #### Clone this repository on your local computer
 
 ```
-git clone https://github.com/Dataweekends/zero_to_deep_learning_udemy.git
+git clone https://github.com/Dataweekends/zero_to_deep_learning_mooc.git
 ```
 
 #### Download and Install Anaconda Python 3.6
